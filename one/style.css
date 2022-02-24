@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.overlay{
+  position: absolute;
+  top:100;
+  padding: 3em;
+ 
+}
+
+h1 {color: magenta;
+  font-family: didot;
+  padding: 4px;
+  text-align: center;
+  text-indent: 600px;
+  text-shadow: 5px 5px 10px red;
+}
+
+h4 { color: white;
+  font-family: didot;
+  padding: 4px;
+  text-align: center;
+  text-indent: 600px;
+}
+
+a{color:magenta;
+  font-family: didot;
+  padding: 3px;
+text-align: center;
+text-indent: 600px;
+text-size-adjust: 30px;
+
+}
